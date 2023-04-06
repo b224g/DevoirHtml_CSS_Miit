@@ -1,2 +1,2 @@
 # DevoirHtml_CSS_Miit
-HTML CSS
+HTML CSS Semestre 2 2023
