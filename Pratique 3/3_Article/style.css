@@ -1,0 +1,12 @@
+body{
+    padding: 0;
+    margin-left: 15%;
+    margin-right: 15%;
+    background: rgb(237, 237,237);
+    color: rgb(50, 50, 50);
+}
+
+#mon-image{
+    height: 50%;
+    width: 50%;
+}

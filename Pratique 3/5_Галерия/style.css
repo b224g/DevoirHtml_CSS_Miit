@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(251, 251, 251); 
+    padding: 20px;
+
+}
+.box{
+    border: 0.4rem black solid;
+    padding: 20px;
+}
+
+.Taillelement{
+    width: 300px;
+    min-height: 200px;
+    align-items: center;
+    align-self:auto;
+}
+.conteneur1{
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: space-around;
+    align-items: center;
+    justify-content: center;
+}
+
+.conteneur1 img{
+    margin: 50px 20px 0 0;
+}
+
+.conteneur2{
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: space-around;
+    align-items: center;
+    justify-content: center;
+}
+
+.conteneur2 img{
+    margin: 25px 20px 20px 0;
+}
+
+.can{
+    display: flex;
+    align-items: center;
+}

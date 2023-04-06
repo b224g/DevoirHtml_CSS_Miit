@@ -1,0 +1,22 @@
+body{
+    align-items: center;
+    display: flex;
+   justify-content: center;
+   height: 100vh;
+}
+p{
+    width: 81%;
+    padding: 20px;
+    border: 5px solid blue;
+    text-align: center;
+} 
+section {
+    width: 250px;
+    height: 250px;
+    border: 5px dashed #21c12e;   
+}
+ 
+h1 {
+    font-size: 24px;
+    text-align: center;     
+}
